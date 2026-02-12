@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "革命的ステップの夜",
+  "base_artist": "Chevon",
+  "createdAt": "2026-02-12T14:05:56.036297Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "革命的ステップの夜",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_革命的ステップの夜_Chevon.txt"
+    }
+  ]
+}
